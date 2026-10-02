@@ -8,12 +8,6 @@ Developed using standard web technologies including HTML, CSS, JavaScript, and P
   - **Backend**: PHP[cite: 2]
   - **Database**: MySQL
 
-## SDLC Model
-<br>
-
-![pasted image 0](https://github.com/sanjeevRae/wfdbig_v1/assets/153409046/95e72e59-c74a-4d64-b7b5-cbc20f17b1ed)
-<br>
-
 ## Objectives
 
 - To Provide a Wide Range of Digital Media Content
